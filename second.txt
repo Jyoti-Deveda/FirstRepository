@@ -1,0 +1,9 @@
+Here is my first commit
+I am going to make a change.
+Here comes the another change.
+The series of changes is  not ending.
+Changes made in lecture 9
+changes without being commited
+A tracked file to be ignored.
+The file is untracked now.
+practising by changing
